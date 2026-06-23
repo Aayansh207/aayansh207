@@ -49,11 +49,10 @@ Interests:
 |------------|---------|
 | 🏆 HACK-18 Hackathon | **Top 10 Finalist** |
 | 🚀 HACK-18 | **Only First-Year Team Selected** |
-| 💻 LeetCode | **125+ Problems Solved** |
+| 🥇 First-Year Hackathon | **Ranked #1 Among All First-Year Teams** |
+| 💻 LeetCode | **300+ Problems Solved** |
 | ⚡ Codeforces | **1250 Rating** |
 | ⭐ CodeChef | **2★ Competitive Programmer** |
-| 🌍 Open Source | **Accepted Contributions** |
-| 🏫 MNNIT Allahabad | **B.Tech CSE** |
 | 🤖 AI Projects | **RepoXray, ContextIQ, Campus Chanakya** |
 
 </div>
